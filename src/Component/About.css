@@ -1,0 +1,15 @@
+
+
+/* src/components/About.css */
+.about-card {
+    transition: transform 0.3s;
+}
+
+.about-card:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+}
+
+
+
+
+

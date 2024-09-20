@@ -1,4 +1,4 @@
-// src/components/Home.js
+
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 
@@ -7,22 +7,22 @@ const Home = () => {
         {
             title: "Beautiful Redwood",
             description: "Explore the majestic redwoods in California.",
-            image: "https://i.postimg.cc/90XHJK4S/Whats-App-Image-2024-07-10-at-13-54-43-17e7fa07.jpg", // Replace with a valid image URL
+            image: "https://i.postimg.cc/tCTNHkFH/pexels-hikaique-775201.jpg", 
         },
         {
             title: "Serene Lake",
             description: "Discover the tranquility of lake views.",
-            image: "https://i.postimg.cc/tT5LZkrz/Whats-App-Image-2024-08-21-at-12-41-44-8cca6c04.jpg", // Replace with a valid image URL
+            image: "https://i.postimg.cc/NMDm32MM/pexels-creative-vix-9754.jpg",
         },
         {
             title: "Mountain Trail",
             description: "Hike through breathtaking mountain trails.",
-            image: "https://example.com/mountain.jpg", // Replace with a valid image URL
+            image: "https://i.postimg.cc/vHcfKBdY/pexels-elisa-g-1775301047-28495638.jpg", 
         },
         {
             title: "Lush Forest",
             description: "Immerse yourself in a vibrant green forest.",
-            image: "https://example.com/forest.jpg", // Replace with a valid image URL
+            image: "https://i.postimg.cc/FFnJ04k2/pexels-nejc-kosir-108379-338936.jpg",
         },
     ];
 

@@ -1,7 +1,7 @@
-// src/components/Navbar.js
+
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Navbar.css'; // Importing CSS file for styling
+import './Navbar.css'; 
 
 const Navbar = () => {
     return (
@@ -10,6 +10,7 @@ const Navbar = () => {
                 <li className="navbar-item"><Link to="/">Home</Link></li>
                 <li className="navbar-item"><Link to="/about">About</Link></li>
                 <li className="navbar-item"><Link to="/contact">Contact</Link></li>
+                <li className="navbar-item"><Link to="/fetch">Fetch</Link></li>
             </ul>
         </nav>
     );

@@ -1,7 +1,7 @@
-// src/components/About.js
+
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
-import './About.css'; // Importing CSS for additional styling
+import './About.css'; 
 
 const About = () => {
     return (

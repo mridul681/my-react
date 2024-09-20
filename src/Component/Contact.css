@@ -1,20 +1,20 @@
 
 
 
-/* src/components/Contact.css */
+
 .container {
-    background-color: #f8f9fa; /* Light background color */
-    padding: 2rem; /* Padding around the form */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    background-color: #f8f9fa; 
+    padding: 2rem; 
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 
 h2 {
-    color: #333; /* Dark text color */
+    color: #333; 
 }
 
 button {
-    width: 100%; /* Full width button */
+    width: 100%; 
 }
 
 
